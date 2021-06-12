@@ -138,6 +138,5 @@ public class Main {
         else {
             System.out.println("Hatalı ay girişi yaptınız.");
         }
-        System.out.println();
     }
 }
